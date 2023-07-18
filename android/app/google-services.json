@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63746941390",
+    "project_id": "cloth-selling-app",
+    "storage_bucket": "cloth-selling-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63746941390:android:6f17a6b1ac8ea190cb4b9f",
+        "android_client_info": {
+          "package_name": "com.example.cloth_selling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63746941390-ejt3bhhh9fi4sgv3prsqmm0pfkaken6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkzHdMu2OU98NHMnQ3dIFr60TyBu6DWxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63746941390-ejt3bhhh9fi4sgv3prsqmm0pfkaken6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
